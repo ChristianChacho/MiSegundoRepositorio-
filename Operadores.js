@@ -81,3 +81,5 @@ console.log ("El resultado del operador Ó es:" + resultadoOperLogÓ);
 //Operador NEGACIÓN !
 var resultadoOperLono =  !resultadoOperLogÓ;
 console.log ( "El resultado del operador NEGACIÓN es:"+ resultadoOperLono );
+
+//Esta es una edición para probar el sistema de versiones de GitHub 
